@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, i'm oldvibeverse 👋
 
-<!--
-**oldvibeverse/oldvibeverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Australia.
 
-Here are some ideas to get you started:
+- learning Docker the slow way
+- happier in a terminal than in an IDE
+- happy to pair on open-source stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oldvibeverse&hide_border=true&theme=cobalt" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=oldvibeverse&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Linux-fb923c?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/GitHub%20Actions-fb923c?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Kubernetes-fb923c?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Terraform-fb923c?style=for-the-badge&logoColor=white" alt="Terraform" />
